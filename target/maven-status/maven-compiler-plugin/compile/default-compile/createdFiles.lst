@@ -1,0 +1,5 @@
+com\onesystem\crudTrain\dao\PersonaDao.class
+com\onesystem\crudTrain\ngc\PersonaNgcImpl.class
+com\onesystem\crudTrain\bd\TbTestPerson.class
+com\onesystem\crudTrain\ctl\PersonaCtl.class
+com\onesystem\crudTrain\ngc\PersonaNgc.class
